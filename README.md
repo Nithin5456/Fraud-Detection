@@ -10,7 +10,7 @@ This project is a machine learning-based solution for detecting fraudulent credi
 - Evaluates model performance using accuracy, F1 score, precision, and recall.  
 
  Technologies Used  
-- Machine Learning Models: Random Forest, SVM, or any classifier (depending on your choice)  
+- Machine Learning Models: Logistic Regression 
 - Data Preprocessing: Pandas, NumPy  
 - Data Balancing: SMOTE and Undersampling  
 - Metrics: Accuracy, F1 Score, Precision, Recall  
